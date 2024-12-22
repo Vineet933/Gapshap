@@ -39,7 +39,7 @@ const Page: FC = () => {
             </Button>
             <div className="mt-6 text-center">
             <Link
-              href=""
+              href="https://github.com/Vineet933/Gapshap"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center text-sm text-gray-600 hover:text-gray-800"
